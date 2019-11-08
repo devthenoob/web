@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<body style="background-color:#cf1f13">
+<body style="background-color:red">
  <h1 style="font-size:50px;color:white;font-family:arial;text-align:center">Welcome to the Liverpool FC FanPage</h1>
  <p style="color:white;font-family:arial">WE HAVE FOUR BEASTS CALLED SALAH,MANE,FIRMINO,ORIGI!! SIX TIME EUROPEAN CHAMPION!!
  A BRICK WALL CALLED VIRGIL VAN DIJK,TWO FULLBACKS CALLED TRENT AND ROBERTSON.TOP OF THE PREMIER LEAGUE!!
